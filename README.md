@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Nextjs**
 
-- ⚙️ I use daily: **.jsx, .tsx, .js, .html, .css, .svg, .png, .json, .ts, .sql**
+- ⚙️ I use daily - **.jsx, .tsx, .js, .html, .css, .svg, .png, .json, .ts, .sql**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eta-six-41.vercel.app/](https://portfolio-eta-six-41.vercel.app/)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14XKPLSmUKtt7lp7fUJ4bOBejAVR9-yhy/view?usp=drive_link](https://drive.google.com/file/d/14XKPLSmUKtt7lp7fUJ4bOBejAVR9-yhy/view?usp=drive_link)
 
-- ⚡ Fun fact: **My first line of code was not "Hello World!"**
+- ⚡ Fun fact - **My first line of code was not "Hello World!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
