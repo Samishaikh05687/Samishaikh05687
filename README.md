@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, What'sUp? I'm Sami shaikh</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate MERN Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samishaikh05687&label=Profile%20views&color=0e75b6&style=flat" alt="samishaikh05687" /> </p>
 
