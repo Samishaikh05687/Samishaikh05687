@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samishaikh05687" alt="samishaikh05687" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sami022itz" target="blank"><img src="https://img.shields.io/twitter/follow/sami022itz?logo=twitter&style=for-the-badge" alt="sami022itz" /></a> </p>
+
 
 - 🔭 I’m currently working on **creating Dynamic web Application**
 
